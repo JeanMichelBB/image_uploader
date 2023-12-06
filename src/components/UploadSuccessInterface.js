@@ -59,4 +59,5 @@ const UploadSuccessInterface = ({ uploadedFile }) => {
   );
 };
 
+
 export default UploadSuccessInterface;
